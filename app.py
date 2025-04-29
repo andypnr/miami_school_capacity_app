@@ -1,3 +1,5 @@
+st.write("Columns:", df.columns.tolist())
+
 import pandas as pd
 import numpy as np
 
